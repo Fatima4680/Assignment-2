@@ -1,0 +1,66 @@
+.travel{
+    color: #FF5400;
+    font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.Dream{
+    color: #131318;
+
+font-family: Mulish;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 20px;
+}
+.img1{
+    margin-left: 80px;
+}
+.header1{
+    display: flex;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 200px;
+}
+.nav ul {
+    display: flex;
+    text-align: right;
+}
+
+.nav li {
+    list-style: none;
+    margin-right: 30px;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.nav li a {
+    color: #424247;
+    text-decoration: none;
+    text-align: center;
+font-family: Mulish;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 5px;
+
+}
+.main-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.home{
+    color: #FF5400;
+}
+
+
+
